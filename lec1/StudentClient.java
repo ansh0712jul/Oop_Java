@@ -1,4 +1,5 @@
 package lec1;
+
 public class StudentClient {
     public static void main(String[] args) {
         System.out.println("Hello world!");
@@ -13,6 +14,7 @@ public class StudentClient {
         s2.Sayhello("johnny");
         // accessing a static method thorugh class name 
         Student.fun();
+
 
     }
 
