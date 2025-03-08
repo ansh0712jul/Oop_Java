@@ -15,4 +15,8 @@ public class StudentClient {
         Student.fun();
 
     }
+
+    static {
+        System.out.println("this is second statci block");
+    }
 }

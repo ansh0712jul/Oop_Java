@@ -18,4 +18,8 @@ public class Student {
     public static void fun(){
         System.out.println("this is a static method");
     }
+
+    static {
+        System.out.println("this is first static block");
+    }
 }
