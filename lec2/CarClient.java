@@ -1,3 +1,4 @@
+package lec2;
 public class CarClient {
     
     public static void main(String[] args) throws Exception {

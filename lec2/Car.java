@@ -1,3 +1,4 @@
+package lec2;
 public class Car {
     private String color;
     private int price;
